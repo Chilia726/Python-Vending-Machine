@@ -124,6 +124,8 @@ def payment():
         img = Image.open(filename)
 
         img.show()
+    else:
+        print("Invalid")
 
 
 if pay == "p":
