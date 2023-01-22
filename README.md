@@ -4,6 +4,9 @@ Simple Python vending machine
 
 ## Installation
 
+Download here
+https://github.com/Chilia726/Python-Vending-Machine/releases/tag/1.0.0
+
 ```bash
 pip install -r requirements.txt
 ```
