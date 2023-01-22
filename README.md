@@ -13,6 +13,12 @@ pip install -r requirements.txt
 
 ## Usage
 
+To run, do
+
+```bash
+py main.py
+```
+
 ```
 A Pringles Cheetos Doritos Takis
 B Water Pepsi Mountain Dew Dr. Pepper
