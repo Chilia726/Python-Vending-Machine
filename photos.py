@@ -1,4 +1,5 @@
 # Packages
+
 from PIL import Image
 
 # Opening Images
