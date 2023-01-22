@@ -23,7 +23,7 @@ Press P to insert a coin
 Please select your snack:
 ```
 
-Use any snack, Example:
+Purchase any snack, Example:
 
 ```
 C3
